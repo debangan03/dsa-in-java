@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Stringhandling.iml" filepath="$PROJECT_DIR$/.idea/Stringhandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringhand/stringhand.iml" filepath="$PROJECT_DIR$/stringhand/stringhand.iml" />
+    </modules>
+  </component>
+</project>
